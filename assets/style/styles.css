@@ -1,0 +1,44 @@
+.current {
+	background-color: red;
+}
+
+.grey {
+	background-color: grey;
+}
+.blue
+{
+	background-color: cornflowerblue;
+}
+table.main {
+	width: 300px;
+	border: 1px solid black;
+}
+
+table.main td {
+	vertical-align: top;
+	font-size: 15px;
+	font-weight: 500;
+	padding: 2px;
+	margin: 2px;
+}
+
+table.main th {
+	border-width: 1px 1px 1px 1px;
+	padding: 0px 0px 0px 0px;
+	background-color: #ccb4cd;
+}
+
+table.main a {
+	TEXT-DECORATION: none;
+}
+
+table, td {
+	border: 1px solid #000000;
+	cursor: pointer;
+
+}
+.head{
+	color: red !important;
+	font-weight: bolder;
+	text-shadow: darkcyan ;
+}
